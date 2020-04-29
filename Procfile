@@ -1,1 +1,1 @@
-
+web: python sitemap.py
